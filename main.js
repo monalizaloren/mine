@@ -180,3 +180,4 @@ function right()
 		playerUpdate();
 	}
 }
+
